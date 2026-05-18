@@ -13,7 +13,6 @@ My research interests include Graphon Mean Field Games (GMFG).
   <br> IEEE Conference on Decision and Control, April 2026 (Submitted)
   
 * **Conformism-Individualism Trade-offs in LQG Graphon Mean Field Games with Control Mean Field Costs**
-  [[PDF]](files/IFAC_20260510.pdf)
   <br> Z. Huang and P. E. Caines
   <br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
 
