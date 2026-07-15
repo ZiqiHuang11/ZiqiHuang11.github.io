@@ -10,24 +10,32 @@ My research interests include Graphon Mean Field Games (GMFG).
 
 ## Publications
 
-2\. * **Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields**  
-<br> Z. Huang and P. E. Caines  
-<br> IEEE Conference on Decision and Control, April 2026 (Submitted)
+<ol reversed>
+  <li>
+    <strong>Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields</strong>
+    <br> Z. Huang and P. E. Caines
+    <br> IEEE Conference on Decision and Control, April 2026 (Submitted)
+  </li>
+  <li>
+    <strong>Conformism-Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong> <a href="files/IFAC_20260519_m.pdf">[PDF]</a>
+    <br> Z. Huang and P. E. Caines
+    <br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
+  </li>
+</ol>
 
-1\. * **Conformism-Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs** [[PDF]](files/IFAC_20260519_m.pdf)  
-<br> Z. Huang and P. E. Caines  
-<br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
+## Talks
 
-## Talks 
 * Toward Graphon Mean Field Games with Control Couplings and Constraints
   <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
 
-## Reviewer 
+## Reviewer
+
 * Automatica
-* IEEE Conference on Decision and Control (CDC) 
+* IEEE Conference on Decision and Control (CDC)
 * IFAC Conference on Networked Systems (NecSys)
 
-## Teaching Assistant 
+## Teaching Assistant
+
 * ECSE 509: Probability and Random Signals 2 (Fall 2025)
 * ECSE 501: Linear Systems (Fall 2025)
 * ECSE 508: Multi-Agent Systems (Winter 2025)
