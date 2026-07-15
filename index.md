@@ -9,7 +9,7 @@ My research interests include Graphon Mean Field Games (GMFG).
 
 ## Publications
 
-<ol>
+<ol reversed start="2">
   <li>
     <strong>Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields</strong>
     <br>
@@ -20,7 +20,7 @@ My research interests include Graphon Mean Field Games (GMFG).
 
   <li>
     <strong>Conformism-Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong>
-    [[PDF]](files/IFAC_20260519_m.pdf)
+    <a href="files/IFAC_20260519_m.pdf">[PDF]</a>
     <br>
     Z. Huang and P. E. Caines
     <br>
