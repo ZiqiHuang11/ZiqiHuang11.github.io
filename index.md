@@ -10,24 +10,13 @@ My research interests include Graphon Mean Field Games (GMFG).
 
 ## Publications
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div style="width: 2em; flex-shrink: 0;">2.</div>
-  <div>
-    <strong>Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields</strong><br>
-    Z. Huang and P. E. Caines<br>
-    IEEE Conference on Decision and Control, April 2026 (Submitted)
-  </div>
-</div>
+2\. **Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields**  
+&emsp; Z. Huang and P. E. Caines  
+&emsp; IEEE Conference on Decision and Control, April 2026 (Submitted)
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
-  <div style="width: 2em; flex-shrink: 0;">1.</div>
-  <div>
-    <strong>Conformism-Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong>
-    <a href="files/IFAC_20260519_m.pdf">[PDF]</a><br>
-    Z. Huang and P. E. Caines<br>
-    IFAC World Congress, Busan, Korea, August 2026 (Accepted)
-  </div>
-</div>
+1\. **Conformism-Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs** [[PDF]](files/IFAC_20260519_m.pdf)  
+&emsp; Z. Huang and P. E. Caines  
+&emsp; IFAC World Congress, Busan, Korea, August 2026 (Accepted)
 
 ## Talks 
 * Toward Graphon Mean Field Games with Control Couplings and Constraints
