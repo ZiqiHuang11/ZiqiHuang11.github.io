@@ -18,5 +18,15 @@ My research interests include Graphon Mean Field Games (GMFG).
   <br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
 
 ## Talks 
-* **Toward Graphon Mean Field Games with Control Couplings and Constraints**
+* Toward Graphon Mean Field Games with Control Couplings and Constraints
   <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
+
+## Reviewer 
+* Automatica
+* IEEE Conference on Decision and Control (CDC) 
+* IFAC Conference on Networked Systems (NecSys)
+
+## Teaching Assistant 
+* ECSE 509: Probability and Random Signal (Fall 2025)
+* ECSE 501: Linear Systems (Fall 2025)
+* ECSE 508: Multi-Agent Systems (Winter 2025)
