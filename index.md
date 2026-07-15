@@ -19,4 +19,4 @@ My research interests include Graphon Mean Field Games (GMFG).
 
 ## Talks 
 * **Towards Graphon Mean Field Games with Control Couplings and Constraints**
-  <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 15, 2026 (Invited)
+  <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
