@@ -17,4 +17,6 @@ My research interests include Graphon Mean Field Games (GMFG).
   <br> Z. Huang and P. E. Caines
   <br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
 
-
+## Talks 
+* **Towards Graphon Mean Field Games with Control Couplings and Constraints**
+  ISS Informal System Seminar, McGill University, Montreal, Canada, July 15, 2026 (Invited)
