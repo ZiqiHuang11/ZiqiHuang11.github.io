@@ -18,5 +18,5 @@ My research interests include Graphon Mean Field Games (GMFG).
   <br> IFAC World Congress, Busan, Korea, August 2026 (Accepted)
 
 ## Talks 
-* **Towards Graphon Mean Field Games with Control Couplings and Constraints**
+* **Toward Graphon Mean Field Games with Control Couplings and Constraints**
   <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
