@@ -105,6 +105,11 @@ section li::marker {
   color: #707781;
 }
 
+section ol li::marker {
+  color: var(--zh-heading);
+  font-weight: 700;
+}
+
 section a {
   color: #1e6bb8;
 }
