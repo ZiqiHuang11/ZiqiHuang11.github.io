@@ -25,7 +25,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 ## Talks
 
 * Toward Graphon Mean Field Games with Control Couplings and Constraints
-  <br> ISS Informal System Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
+  <br> ISS Informal Systems Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
 
 ## Reviewer
 
