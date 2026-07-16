@@ -93,11 +93,6 @@ section li {
 }
 
 section ul,
-
-section ol li::marker {
-  color: var(--zh-heading);
-  font-weight: 700;
-}
 section ol {
   margin-top: 0;
 }
