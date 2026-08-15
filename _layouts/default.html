@@ -10,41 +10,29 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <div style="height: 1.5em;"></div> 
-        
-        <h1 style="margin-top: 0; font-weight: bold;">
-          <a href="{{ "/" | relative_url }}" style="color: #333; text-decoration: none;">{{ site.title }}</a>
+      <header class="site-header">
+        <h1>
+          <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
         </h1>
-
-
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-
-
-        <p>{{ site.description }}</p>
-
-
-        <div style="margin-bottom: 30px;"></div>
-        
-        <a href="mailto:ziqi.huang2@mail.mcgill.ca" style="display: block; margin-bottom: 10px;">
-          <i class="fas fa-envelope"></i> Email
-        </a>
-        <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/" style="display: block; margin-bottom: 10px;">
-          <i class="fab fa-linkedin"></i> LinkedIn
-        </a>
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=Rc1YU6sAAAAJ" style="display: block; margin-bottom: 10px;">
-          <i class="fas fa-graduation-cap google-scholar-icon"></i> Google Scholar
-        </a>
-        <a href="https://github.com/ZiqiHuang11" style="display: block; margin-bottom: 10px;">
-          <i class="fab fa-github"></i> GitHub
-        </a>
-        
+        <p class="site-subtitle">{{ site.description }}</p>
+        <nav class="social-links" aria-label="Contact and profile links">
+          <a href="mailto:ziqi.huang2@mail.mcgill.ca">
+            <i class="fas fa-envelope" aria-hidden="true"></i><span>Email</span>
+          </a>
+          <a href="https://www.linkedin.com/in/ziqi-huang-334b88201/">
+            <i class="fab fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span>
+          </a>
+          <a href="https://scholar.google.com/citations?hl=zh-CN&user=Rc1YU6sAAAAJ">
+            <i class="fas fa-graduation-cap google-scholar-icon" aria-hidden="true"></i><span>Google Scholar</span>
+          </a>
+          <a href="https://github.com/ZiqiHuang11">
+            <i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span>
+          </a>
+        </nav>
       </header>
-      <section>
+      <main class="site-content">
         {{ content }}
-      </section>
+      </main>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>

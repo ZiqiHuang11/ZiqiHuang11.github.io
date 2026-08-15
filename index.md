@@ -3,8 +3,6 @@ layout: default
 title: Ziqi Huang
 ---
 
-# Ziqi Huang
-
 I am a PhD student in the Department of Electrical and Computer Engineering at McGill University. My research interests include Graphon Mean Field Games (GMFG).
 
 ## Publications
