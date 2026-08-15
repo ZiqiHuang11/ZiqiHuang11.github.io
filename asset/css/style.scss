@@ -84,15 +84,13 @@ body {
   font-weight: 500;
   line-height: 1.4;
   text-decoration: none;
-  transition: color 150ms ease, transform 150ms ease;
 }
 
 .social-links a:hover {
-  color: var(--zh-accent-dark);
-  font-weight: 500;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-  transform: translateY(-1px);
+  color: var(--zh-accent);
+  font-weight: 700;
+  text-decoration: none;
+  transform: none;
 }
 
 .social-links a:focus {
@@ -109,9 +107,10 @@ body {
 }
 
 .social-links a:active {
-  color: var(--zh-accent-dark);
-  font-weight: 500;
-  transform: scale(0.98);
+  color: var(--zh-accent);
+  font-weight: 700;
+  text-decoration: none;
+  transform: none;
 }
 
 .social-links .fab,
