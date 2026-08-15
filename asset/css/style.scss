@@ -74,21 +74,44 @@ body {
   gap: 10px 24px;
 }
 
-.social-links a {
+.social-links a,
+.social-links a:visited {
   display: inline-flex;
   align-items: center;
   color: var(--zh-accent);
+  cursor: pointer;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.4;
   text-decoration: none;
+  transition: color 150ms ease, transform 150ms ease;
 }
 
-.social-links a:hover,
-.social-links a:focus {
+.social-links a:hover {
   color: var(--zh-accent-dark);
+  font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 3px;
+  transform: translateY(-1px);
+}
+
+.social-links a:focus {
+  color: var(--zh-accent);
+  font-weight: 500;
+  text-decoration: none;
+  transform: none;
+}
+
+.social-links a:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid rgba(38, 124, 185, 0.45);
+  outline-offset: 4px;
+}
+
+.social-links a:active {
+  color: var(--zh-accent-dark);
+  font-weight: 500;
+  transform: scale(0.98);
 }
 
 .social-links .fab,
