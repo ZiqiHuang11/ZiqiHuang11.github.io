@@ -22,12 +22,12 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 
 ## Talks
 
-* Toward Graphon Mean Field Games with Control Couplings and Constraints
-  <br> ISS Informal Systems Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
 * Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs
   <br> 23rd IFAC World Congress, Busan, Republic of Korea, August 24, 2026 (Shotgun presentation and interactive poster)
-  
+* Toward Graphon Mean Field Games with Control Couplings and Constraints
+  <br> ISS Informal Systems Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
 
+  
 ## Reviewer
 
 * Automatica
