@@ -27,7 +27,7 @@ body {
 }
 
 .wrapper {
-  width: min(1200px, calc(100% - 64px));
+  width: min(1000px, calc(100% - 64px));
   max-width: none;
   display: block;
   margin: 0 auto;
@@ -127,7 +127,7 @@ body {
 
 .site-content {
   width: auto;
-  max-width: 1200px;
+  max-width: 1000px;
   float: none;
   margin: 0 auto;
   padding: 42px 0 72px;
@@ -166,7 +166,7 @@ body {
   content: "";
   display: block;
   width: 45px;
-  height: 2px;
+  height: 1.6px;
   margin-bottom: 13px;
   background: var(--zh-accent);
 }
