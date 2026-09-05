@@ -16,7 +16,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
   <li>
     <strong>Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong> <a href="files/IFAC_20260519_m.pdf">[PDF]</a>
     <br> Z. Huang and P. E. Caines
-    <br> 23rd IFAC World Congress, Busan, Republic of Korea, August 2026
+    <br> 23rd IFAC World Congress, Busan, Republic of Korea, August 23-28, 2026
   </li>
 </ol>
 
