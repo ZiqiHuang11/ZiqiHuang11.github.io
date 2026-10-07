@@ -9,9 +9,9 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 
 <ol reversed>
   <li>
-    <strong>Graphon Mean Field Games with Control Constraints Dependent upon Network Control Mean Fields</strong> 
+    <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> 
     <br> Z. Huang and P. E. Caines
-    <br> IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, December 2026 (Accepted)
+    <br> IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, December 15-18, 2026 (Accepted)
   </li>
   <li>
     <strong>Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs</strong> <a href="files/IFAC_20260519_m.pdf">[PDF]</a>
@@ -25,7 +25,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 * Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs
   <br> 23rd IFAC World Congress, Busan, Republic of Korea, August 24, 2026 (Shotgun presentation and interactive poster)
 * Toward Graphon Mean Field Games with Control Couplings and Constraints
-  <br> ISS Informal Systems Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited)
+  <br> ISS Informal Systems Seminar, McGill University, Montreal, Canada, July 10, 2026 (Invited talk)
 
   
 ## Reviewer
