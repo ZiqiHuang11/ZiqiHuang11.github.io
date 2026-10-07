@@ -9,7 +9,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 
 <ol reversed>
   <li>
-    <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> 
+    <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> <a href="files/CDC26_1402_FI_20261006.pdf">[PDF]</a>
     <br> Z. Huang and P. E. Caines
     <br> IEEE Conference on Decision and Control, Honolulu, Hawaii, USA, December 15-18, 2026 (Accepted)
   </li>
