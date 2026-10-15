@@ -9,9 +9,9 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 
 <ol reversed>
   <li>
-    <strong>Generalized Nash Equilibria for GMFG-Systems with Control Mean Fields</strong> </a>
+    <strong>Generalized Nash Equilibria for GMFG-Systems with Control Mean Fields</strong> 
     <br> Z. Huang and P. E. Caines
-    <br> Submitted
+    <br> (Submitted)
   </li>
   <li>
     <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> <a href="files/CDC26_1402_FI_20261006.pdf">[PDF]</a>
